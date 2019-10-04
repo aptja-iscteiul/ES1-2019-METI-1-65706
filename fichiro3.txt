@@ -1,0 +1,4 @@
+Tal como foi feito aquando da cria¸c˜ao de um reposit´orio local, crie um ficheiro de texto com
+conte´udo, coloque-o na diretoria criada, adicione-o ao reposit´orio e fa¸ca uma opera¸c˜ao de
+commit.
+
